@@ -11,5 +11,6 @@ console.log('index', a.indexOf('e'));
 let greet = a +" "+ b;
 console.log({greet});
 
+// Template literals
 let salamu =  `${a} ${b}. I love code!`;
 console.log({salamu});
