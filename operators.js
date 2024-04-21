@@ -21,7 +21,6 @@ let strictlyEqualTo = a ===c;
 console.log({strictlyEqualTo});
 
 
-
 let looselyNotEqualTo = a !=c;
 console.log({looselyNotEqualTo});
 
