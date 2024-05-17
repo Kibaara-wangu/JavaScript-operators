@@ -48,3 +48,6 @@ items.forEach(item => {
     square.push(multiply)
 });
 console.log({square});
+
+
+

@@ -34,3 +34,4 @@ const greeting = (dayOfTheWeek) =>{
 }
 }
 greeting("Monday")
+
